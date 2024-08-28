@@ -2,6 +2,7 @@
 
 ## Steps:
 
+
 1. Install Laravel
 2. Create a new project
 3. Migrate the database by running the command 
